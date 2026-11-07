@@ -1,5 +1,7 @@
 # TSPLAYER
 
+![TSPLAYER playing a TurboSound PT3 file, with the screen meters visible](tsplayer-screenshot.png)
+
 TSPLAYER is a CP/M PT3 music player for RomWBW and compatible Z80 systems. It includes TurboSound playback for the dual AY board in [r0b0t1cu/RC2014-Turbo-Sound](https://github.com/r0b0t1cu/RC2014-Turbo-Sound), while retaining playback for single-AY PT3 files.
 
 The player lists `.PT3` files on the current drive, shows playback status and on-screen channel meters, and can drive the eight LEDs on the RCBus Digital I/O module.
